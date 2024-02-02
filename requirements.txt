@@ -1,0 +1,9 @@
+imutils==0.5.4
+opencv-python==4.5.3.56
+numpy==1.21.2
+scikit-image==0.18.3
+tensorflow==2.5.0
+mysql-connector-python==8.0.27
+Pillow==8.3.2
+tk==0.1.0  # Tkinter (part of the standard library, version placeholder)
+collections==0.1.0  # Collections (part of the standard library, version placeholder)
